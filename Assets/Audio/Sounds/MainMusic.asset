@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e0513045be1974d934eb6431407da8, type: 3}
+  m_Name: MainMusic
+  m_EditorClassIdentifier: 
+  clips:
+  - name: guitar1
+    clip: {fileID: 8300000, guid: 60d586720ebf4f84cb7539414cfb89fc, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: guitar2
+    clip: {fileID: 8300000, guid: 9cf066e13bbfa0243bcf1fb4fb2a66e7, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: guitar3
+    clip: {fileID: 8300000, guid: f7176b3d5cd2f774583b51863d13c5a8, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: guitar4
+    clip: {fileID: 8300000, guid: 4b7fa4052d7344b42ae33cd9346b2ee2, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: guitar5
+    clip: {fileID: 8300000, guid: c06e76ac1b236cf4cb78fb6403552f1a, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: guitar6
+    clip: {fileID: 8300000, guid: d132fd7eddfe34e448fc4e89861cacfa, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: guitar7
+    clip: {fileID: 8300000, guid: e6594239b98d3844391aa02888a362ef, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  type: 1
+  SynchronizePitchAndVolume: 1
+  pitch: 1
+  volume: 0.354
+  unpauseable: 0
+  randomizePitch: 0
+  pitchRandomizeAmount: 0.111
+  audioSource: {fileID: 0}
+  instantialized: 0

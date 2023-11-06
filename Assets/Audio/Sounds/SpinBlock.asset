@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e0513045be1974d934eb6431407da8, type: 3}
+  m_Name: SpinBlock
+  m_EditorClassIdentifier: 
+  clips:
+  - name: spin1
+    clip: {fileID: 8300000, guid: fa3c1e77005b5fd4fbd34db7d8bc1a98, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: spin2
+    clip: {fileID: 8300000, guid: 3b578fe6c56616f4d82aa66e30c72585, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: spin3
+    clip: {fileID: 8300000, guid: 8cdfcf25dcc32554881cd132452b4aba, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: spin4
+    clip: {fileID: 8300000, guid: e3c6e4dac189e4f458ab431f371b9a2c, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: spin5
+    clip: {fileID: 8300000, guid: 37535877b13ca744896b58daa82682eb, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  - name: spin6
+    clip: {fileID: 8300000, guid: ed2149a6ef948b24e9ed89e94e06f0d1, type: 3}
+    looping: 0
+    CustomPitchAndVolume: 0
+    volume: 0
+    pitch: 0
+  type: 0
+  SynchronizePitchAndVolume: 1
+  pitch: 1
+  volume: 0.382
+  unpauseable: 0
+  randomizePitch: 1
+  pitchRandomizeAmount: 0.077
+  audioSource: {fileID: 0}
+  instantialized: 0
